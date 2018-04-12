@@ -1,0 +1,1 @@
+Exercises for a "Scala for impatient" book
